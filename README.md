@@ -3,4 +3,4 @@
 ---
 
 - **DFS & BFS**
-  - [#1260](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%231260.md) - DFS와 BFS
+  - [#1260](https://github.com/ERyukSa/Algorithm/blob/main/DFS&BFS/%231260%20-%20DFS%EC%99%80%20BFS.md) - DFS와 BFS
