@@ -1,0 +1,48 @@
+from collections import deque
+
+v, e, s = map(int, input().split())
+graph = [[] for _ in range(v + 1)]
+for _ in range(e):
+    v1, v2 = map(int, input().split())
+    graph[v1].append(v2)
+    graph[v2].append(v1)
+
+# 숫자가 작은 순서대로 방문하기 위해 오름차순 정렬
+for i in range(1, v + 1):
+    graph[i].sort()
+
+visited = [False] * (v + 1)
+visited[s] = True
+
+def process_dfs(node):
+    global visited
+    
+    print(node, end=' ')
+    
+    # 스택 최상단 노드(node)의 인접 노드들 중, 깊이 우선으로 방문 가능한지 검사
+    for n in graph[node]:
+        if visited[n] == False:
+            visited[n] = True
+            process_dfs(n)
+            
+def process_bfs(start):
+    global visited
+    
+    q = deque()
+    q.append(start)
+    
+    while q:
+        node = q.popleft()
+        print(node, end=' ')
+        
+        # 큐 맨 앞 노드의 인접 노드들 중 너비 우선으로 방문 가능한지 검사
+        for n in graph[node]:
+            if visited[n] == False:
+                visited[n] = True
+                q.append(n)
+
+process_dfs(s)
+visited = [False] * (v + 1)
+visited[s] = True
+print()
+process_bfs(s)
