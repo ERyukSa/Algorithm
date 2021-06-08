@@ -1,3 +1,8 @@
+## 문제
+https://www.acmicpc.net/problem/1260
+
+---
+
 ## 문제 유형
 DFS와 BFS의 기본 구현을 묻는 문제
 
