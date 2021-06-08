@@ -1,3 +1,8 @@
+## 날짜
+2021-06-08
+
+---
+
 ## 문제
 https://www.acmicpc.net/problem/1260
 
