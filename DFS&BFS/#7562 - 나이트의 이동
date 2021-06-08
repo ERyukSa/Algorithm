@@ -1,0 +1,40 @@
+## Code
+
+```python
+from collections import deque
+
+t = int(input())
+dx = [-2, -1, 1, 2, 2, 1, -1, -2]
+dy = [1, 2, 2, 1, -1, -2, -2, -1]
+
+def find_min(board, n, i, j):
+    global dx, dy
+    
+    q = deque()
+    q.append((i, j))
+    
+    while q:
+        x, y = q.popleft()
+    
+        for i in range(8):
+            tx = x + dx[i]
+            ty = y + dy[i]
+            
+            if 0 <= tx < n and 0 <= ty < n and board[tx][ty] == -1:
+                board[tx][ty] = board[x][y] + 1
+                q.append((tx, ty))
+    
+    
+while t > 0:
+    t -= 1
+    
+    n = int(input())
+    sx, sy = map(int, input().split())
+    ex, ey = map(int, input().split())
+    
+    board = [[-1] * n for _ in range(n)]
+    board[sx][sy] = 0
+    
+    find_min(board, n, sx, sy)
+    print(board[ex][ey])
+```
