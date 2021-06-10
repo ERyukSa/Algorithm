@@ -11,3 +11,4 @@
   - #2178 - 미로 탐색
   - #4963 - 섬의 개수
   - #7562 - 나이트의 이동
+  - [#17471](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%2317471%20-%20%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81.md) - 게리맨더링
