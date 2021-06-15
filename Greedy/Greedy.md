@@ -31,20 +31,20 @@
 
   ## 예제
 
-   - **문제) 거스름돈**
+- **문제) 거스름돈**
 
-    카운터에서 손님에게 N원을 거슬러줘야 할 때 필요한 **동전의 최소 개수**를 구하라. 단, 거슬러 줘야할 돈은 항상 10의 배수이고, 500원, 100원, 50원, 10원짜리 동전들만을 무한히 사용해서 거슬러줄 수 있다.
+  카운터에서 손님에게 N원을 거슬러줘야 할 때 필요한 **동전의 최소 개수**를 구하라. 단, 거슬러 줘야할 돈은 항상 10의 배수이고, 500원, 100원, 50원, 10원짜리 동전들만을 무한히 사용해서 거슬러줄 수 있다.
 
 - **해설**
 
     그리디 알고리즘을 이용해 풀 수 있는 대표적인 문제로, '가장 큰 화폐 단위부터 최대한' 거슬러 준다는 아이디어만 떠올릴 수 있으면 문제를 해결할 수 있다.
 
-  -   step0) N = 1260원
-  -   step1) 500원으로 거슬러줄 수 있는 가장 큰 돈은 1,000원, 즉 500원 **2개** -> 남은 돈 N = 260원
-  -   step2) 100원으로 거슬러 줄 수 있는 가장 큰 돈 200원, 100원 **2개** -> 남은 돈 N = 60원
-  -   step3) 50원 **1개** -> N = 10원
-  -   step4) 10원 **1개** -> N = 0원
-  -   동전의 최소 개수는 **6개** 
+  -   **step0)** N = 1260원
+  -   **step1)** 500원으로 거슬러줄 수 있는 가장 큰 돈은 1,000원, 즉 500원 **2개** -> 남은 돈 N = 260원
+  -   **step2)** 100원으로 거슬러 줄 수 있는 가장 큰 돈 200원, 100원 **2개** -> 남은 돈 N = 60원
+  -   **step3)** 50원 **1개** -> N = 10원
+  -   **step4)** 10원 **1개** -> N = 0원
+  -   **정답)** 동전의 최소 개수는 **6개** 
 
 - **코드**
   
@@ -75,4 +75,4 @@
 
 ## 참고 서적
 
-[이것이 취업을 위한 코딩테스트다 with 파이썬<img width="280" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMjdfMjU2%2FMDAxNjA5MDc4NDc4OTMy.ytLzpw65ZTUqe_gSCuNDLGHRcj5yq5jD50HYrWDyqrAg.WpGjvxnl18_bAgyRiGqNofYl7ba6_qBFlWsYFw_1C60g.PNG.zhdnrk1%2Fimage.png&type=sc960_832" alt="Prunus" title="A Wild Cherry (Prunus avium) in flower">](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
+[이것이 취업을 위한 코딩테스트다 with 파이썬</br><img width="280" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMjdfMjU2%2FMDAxNjA5MDc4NDc4OTMy.ytLzpw65ZTUqe_gSCuNDLGHRcj5yq5jD50HYrWDyqrAg.WpGjvxnl18_bAgyRiGqNofYl7ba6_qBFlWsYFw_1C60g.PNG.zhdnrk1%2Fimage.png&type=sc960_832" alt="Prunus" title="A Wild Cherry (Prunus avium) in flower">](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
