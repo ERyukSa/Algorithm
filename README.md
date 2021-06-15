@@ -32,4 +32,4 @@
 
 ## [참고서적](#참고서적)
 
-[이것이 취업을 위한 코딩테스트다 with 파이썬 **(이코테)**<img width="280" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMTdfMjE4%2FMDAxNjEwODQ1Mzc2MTI5.J9I4C67bdsG9IUCz17AAiZQ-Ex3WVuRmqcP3ZE4t4qwg.llvkH6ZKQERHZ_iaPkcKaeTAos6ZxdW9JHVTsUHOV14g.PNG.cy2003k%2Fimage.png&type=sc960_832" alt="이것이 코딩 테스트다 with 파이썬" title="이것이 코딩 테스트다 with 파이썬">](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
+[<img width="300" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMTdfMjE4%2FMDAxNjEwODQ1Mzc2MTI5.J9I4C67bdsG9IUCz17AAiZQ-Ex3WVuRmqcP3ZE4t4qwg.llvkH6ZKQERHZ_iaPkcKaeTAos6ZxdW9JHVTsUHOV14g.PNG.cy2003k%2Fimage.png&type=sc960_832" alt="이것이 코딩 테스트다 with 파이썬" title="이것이 코딩 테스트다 with 파이썬">](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
