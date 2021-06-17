@@ -3,38 +3,37 @@
 
 <br>
 
-번호 앞에 '*' 표시가 있는 글에는 설명이 포함되어 있습니다.
+번호 앞에 '*' 표시가 있는 글은 설명이 포함되어 있습니다.
 
 
 ---
 <br>
 
 - **DFS & BFS**
-  - *[#1260](https://github.com/ERyukSa/Algorithm/blob/main/DFS&BFS/%231260%20-%20DFS%EC%99%80%20BFS.md) - - DFS와 BFS
+  - *[#1260 - DFS와 BFS](https://github.com/ERyukSa/Algorithm/blob/main/DFS&BFS/%231260%20-%20DFS%EC%99%80%20BFS.md)
   - #2178 - 미로 탐색
   - #4963 - 섬의 개수
   - #7562 - 나이트의 이동
-  - *[#17471](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%2317471%20-%20%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81.md) - 게리맨더링
+  - *[#17471 - 게리맨더링](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%2317471%20-%20%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81.md)
   - #2606 - 바이러스
   - #2667 - 단지번호붙이기  
 
 <br>
 
-<<<<<<< HEAD
 - **그리디**
   - *[그리디 알고리즘](https://github.com/ERyukSa/Algorithm/blob/main/Greedy/Greedy.md)
+  - *[모험가 길드](./Greedy/모험가%20길드.md) 
+  - #1439 - 뒤집기
+  - 만들 수 없는 금액
+  - 무지의 먹방 라이브
 
 <br>
 
 - 완전 탐색
   - #2309 - 일곱 난쟁이
-  - *[모험가 길드](./Greedy/모험가%20길드.md) in [이코테](./#참고서적) 
 
+<br>
 
 ## [참고서적](#참고서적)
 
-[이것이 취업을 위한 코딩테스트다 with 파이썬 **(이코테)**<img width="280" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMTdfMjE4%2FMDAxNjEwODQ1Mzc2MTI5.J9I4C67bdsG9IUCz17AAiZQ-Ex3WVuRmqcP3ZE4t4qwg.llvkH6ZKQERHZ_iaPkcKaeTAos6ZxdW9JHVTsUHOV14g.PNG.cy2003k%2Fimage.png&type=sc960_832" alt="이것이 코딩 테스트다 with 파이썬" title="이것이 코딩 테스트다 with 파이썬">](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
-=======
-- **Greedy**
-  - [그리디 알고리즘이란?](https://github.com/ERyukSa/Algorithm/blob/main/Greedy/Greedy.md)
->>>>>>> bee54307dbb185b51e261063aae4293d8313f97c
+[<img width="300" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMTdfMjE4%2FMDAxNjEwODQ1Mzc2MTI5.J9I4C67bdsG9IUCz17AAiZQ-Ex3WVuRmqcP3ZE4t4qwg.llvkH6ZKQERHZ_iaPkcKaeTAos6ZxdW9JHVTsUHOV14g.PNG.cy2003k%2Fimage.png&type=sc960_832" alt="이것이 코딩 테스트다 with 파이썬" title="이것이 코딩 테스트다 with 파이썬">](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
