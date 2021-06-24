@@ -17,6 +17,7 @@
   - *[#17471 - 게리맨더링](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%2317471%20-%20%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81.md)
   - #2606 - 바이러스
   - #2667 - 단지번호붙이기  
+  - [#13913 - 숨바꼭질4](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%2313913%20-%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%884.md)
 
 <br>
 
@@ -25,12 +26,16 @@
   - *[모험가 길드](./Greedy/모험가%20길드.md) 
   - #1439 - 뒤집기
   - 만들 수 없는 금액
-  - 무지의 먹방 라이브
+  - *[무지의 먹방 라이브](https://github.com/ERyukSa/Algorithm/blob/main/Greedy/%EB%AC%B4%EC%A7%80%EC%9D%98%20%EB%A8%B9%EB%B0%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C.md)
 
 <br>
 
 - 완전 탐색
   - #2309 - 일곱 난쟁이
+
+- 구현
+  - 게임 개발
+  - *[문자열 압축](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md)
 
 <br>
 
