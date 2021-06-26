@@ -36,7 +36,7 @@
 - 구현
   - 게임 개발
   - *[문자열 압축](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md)
-  - [자물쇠와 열쇠](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.md)
+  - *[자물쇠와 열쇠](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.md)
 
 <br>
 
