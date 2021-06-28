@@ -9,6 +9,15 @@
 ---
 <br>
 
+- 구현
+  - 게임 개발
+  - *[문자열 압축](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md)
+  - *[자물쇠와 열쇠](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.md)
+  - *[#3190 뱀](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%233190%20-%20%EB%B1%80.md)
+  - *[기둥과 보 설치](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EA%B8%B0%EB%91%A5%EA%B3%BC%20%EB%B3%B4%20%EC%84%A4%EC%B9%98.md)
+  
+<br>
+
 - **DFS & BFS**
   - *[#1260 - DFS와 BFS](https://github.com/ERyukSa/Algorithm/blob/main/DFS&BFS/%231260%20-%20DFS%EC%99%80%20BFS.md)
   - #2178 - 미로 탐색
@@ -32,12 +41,6 @@
 
 - 완전 탐색
   - #2309 - 일곱 난쟁이
-
-- 구현
-  - 게임 개발
-  - *[문자열 압축](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md)
-  - *[자물쇠와 열쇠](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.md)
-  - *[#3190 뱀](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%233190%20-%20%EB%B1%80.md)
 
 <br>
 
