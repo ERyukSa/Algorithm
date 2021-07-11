@@ -5,11 +5,13 @@
 
 번호 앞에 '*' 표시가 있는 글은 설명이 포함되어 있습니다.
 
-
 ---
 <br>
 
-- 구현
+<details open markdown = "1">
+
+<summary>구현</summary>
+
   - 게임 개발
   - *[문자열 압축](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md)
   - *[자물쇠와 열쇠](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.md)
@@ -18,9 +20,14 @@
   - *[#15686 - 치킨 배달](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%2315686%20-%20%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.md)
   - *[외벽 점검](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80.md)
   
+</details>
+
 <br>
 
-- **DFS & BFS**
+<details open markdown="2">
+
+<summary>DFS & BFS</summary>
+
   - *[#1260 - DFS와 BFS](https://github.com/ERyukSa/Algorithm/blob/main/DFS&BFS/%231260%20-%20DFS%EC%99%80%20BFS.md)
   - #2178 - 미로 탐색
   - #4963 - 섬의 개수
@@ -30,20 +37,34 @@
   - #2667 - 단지번호붙이기  
   - *[#13913 - 숨바꼭질4](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%2313913%20-%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%884.md)
   - *[#14502 - 연구소](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%2314502%20-%20%EC%97%B0%EA%B5%AC%EC%86%8C.md)
+  - 타겟 넘버
+  - 네트워크
   
+</details>
+
 <br>
 
-- **그리디**
+<details open markdown="3">
+
+<summary>그리디</summary>
+
   - *[그리디 알고리즘](https://github.com/ERyukSa/Algorithm/blob/main/Greedy/Greedy.md)
   - *[모험가 길드](./Greedy/모험가%20길드.md) 
   - #1439 - 뒤집기
   - 만들 수 없는 금액
   - *[무지의 먹방 라이브](https://github.com/ERyukSa/Algorithm/blob/main/Greedy/%EB%AC%B4%EC%A7%80%EC%9D%98%20%EB%A8%B9%EB%B0%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C.md)
 
+</details>
+
 <br>
 
-- 완전 탐색
+<details open markdown="4">
+
+<summary>완전 탐색</summary>
+
   - #2309 - 일곱 난쟁이
+
+</details>
 
 <br>
 
