@@ -19,6 +19,7 @@
   - *[기둥과 보 설치](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EA%B8%B0%EB%91%A5%EA%B3%BC%20%EB%B3%B4%20%EC%84%A4%EC%B9%98.md)
   - *[#15686 - 치킨 배달](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%2315686%20-%20%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.md)
   - *[외벽 점검](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80.md)
+  - *[키패드 누르기](https://best-human-developer.tistory.com/2)
   
 </details>
 
