@@ -72,6 +72,16 @@
 
 <br>
 
+<details open markdown="5">
+
+<summary>다이나믹 프로그래밍</summary>
+
+  - *[#18427 - 함께 블록 쌓기](https://best-human-developer.tistory.com/manage/newpost/5?type=post&returnURL=https%3A%2F%2Fbest-human-developer.tistory.com%2F5)
+
+</details>
+
+<br>
+
 ## [참고서적](#참고서적)
 
 [<img width="300" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMTdfMjE4%2FMDAxNjEwODQ1Mzc2MTI5.J9I4C67bdsG9IUCz17AAiZQ-Ex3WVuRmqcP3ZE4t4qwg.llvkH6ZKQERHZ_iaPkcKaeTAos6ZxdW9JHVTsUHOV14g.PNG.cy2003k%2Fimage.png&type=sc960_832" alt="이것이 코딩 테스트다 with 파이썬" title="이것이 코딩 테스트다 with 파이썬">](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
