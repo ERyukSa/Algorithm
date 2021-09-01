@@ -1,5 +1,5 @@
 # Algorithm
-### 알고리즘 문제 풀이 기록 (Python)
+### 알고리즘 문제 풀이 기록 (Python, Kotlin)
 
 <br>
 
@@ -67,6 +67,7 @@
 <summary>완전 탐색</summary>
 
   - #2309 - 일곱 난쟁이
+  - *[#1062 - 가르침](https://best-human-developer.tistory.com/6)
 
 </details>
 
