@@ -43,7 +43,7 @@
   - *[네트워크](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
   - 단어 변환
   - *[여행경로](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.md)
-  - [#1707 - 이분 그래프](https://best-human-developer.tistory.com/7)
+  - *[#1707 - 이분 그래프](https://best-human-developer.tistory.com/7)
   
 </details>
 
@@ -58,6 +58,7 @@
   - #1439 - 뒤집기
   - 만들 수 없는 금액
   - *[무지의 먹방 라이브](https://github.com/ERyukSa/Algorithm/blob/main/Greedy/%EB%AC%B4%EC%A7%80%EC%9D%98%20%EB%A8%B9%EB%B0%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C.md)
+  - *[#1744 - 수 묶기](https://best-human-developer.tistory.com/8)
 
 </details>
 
