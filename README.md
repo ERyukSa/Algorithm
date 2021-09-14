@@ -79,7 +79,8 @@
 
 <summary>다이나믹 프로그래밍</summary>
 
-  - *[#18427 - 함께 블록 쌓기](https://best-human-developer.tistory.com/manage/newpost/5?type=post&returnURL=https%3A%2F%2Fbest-human-developer.tistory.com%2F5)
+  - *[#18427 - 함께 블록 쌓기](https://best-human-developer.tistory.com/5)
+  - *[#1904 - 01타일](https://best-human-developer.tistory.com/10)
 
 </details>
 
