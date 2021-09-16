@@ -81,6 +81,7 @@
 
   - *[#18427 - 함께 블록 쌓기](https://best-human-developer.tistory.com/5)
   - *[#1904 - 01타일](https://best-human-developer.tistory.com/10)
+  - *[#14501 - 퇴사](https://best-human-developer.tistory.com/11)
 
 </details>
 
