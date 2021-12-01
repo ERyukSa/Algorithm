@@ -79,6 +79,7 @@
   - [#1904 - 01타일](https://best-human-developer.tistory.com/10)
   - [#14501 - 퇴사](https://best-human-developer.tistory.com/11)
   - [#10844 - 쉬운 계단 수](https://best-human-developer.tistory.com/14)
+  - [#11057 - 오르막 수](https://best-human-developer.tistory.com/15)
 
 </details>
 
