@@ -75,15 +75,23 @@
 
 <summary>다이나믹 프로그래밍</summary>
 
-  - [#18427 - 함께 블록 쌓기](https://best-human-developer.tistory.com/5)
-  - [#1904 - 01타일](https://best-human-developer.tistory.com/10)
-  - [#14501 - 퇴사](https://best-human-developer.tistory.com/11)
-  - [#10844 - 쉬운 계단 수](https://best-human-developer.tistory.com/14)
-  - [#11057 - 오르막 수](https://best-human-developer.tistory.com/15)
+  - [백준 18427번 - 함께 블록 쌓기](https://best-human-developer.tistory.com/5)
+  - [백준 1904번 - 01타일](https://best-human-developer.tistory.com/10)
+  - [백준 14501번 - 퇴사](https://best-human-developer.tistory.com/11)
+  - [백준 10844번 - 쉬운 계단 수](https://best-human-developer.tistory.com/14)
+  - [백준 11057번 - 오르막 수](https://best-human-developer.tistory.com/15)
 
 </details>
 
 <br>
+
+<details open markdown="6">
+
+<summary>이분 탐색</summary>
+
+  - [백준 2110번 - 공유기 설치](https://best-human-developer.tistory.com/17)
+
+</details>
 
 ## [참고서적](#참고서적)
 
