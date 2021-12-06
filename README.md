@@ -81,6 +81,7 @@
   - [백준 14501번 - 퇴사](https://best-human-developer.tistory.com/11)
   - [백준 10844번 - 쉬운 계단 수](https://best-human-developer.tistory.com/14)
   - [백준 11057번 - 오르막 수](https://best-human-developer.tistory.com/15)
+  - [백준 2256번 - 포도주 시식](https://best-human-developer.tistory.com/19)
 
 </details>
 
