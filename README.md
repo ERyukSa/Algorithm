@@ -82,6 +82,7 @@
   - [백준 10844번 - 쉬운 계단 수](https://best-human-developer.tistory.com/14)
   - [백준 11057번 - 오르막 수](https://best-human-developer.tistory.com/15)
   - [백준 2156번 - 포도주 시식](https://best-human-developer.tistory.com/19)
+  - [백준 1912번 - 연속합](https://best-human-developer.tistory.com/21)
 
 </details>
 
@@ -95,6 +96,10 @@
 
 </details>
 
-## [참고서적](#참고서적)
+<br>
 
-[<img width="300" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMTdfMjE4%2FMDAxNjEwODQ1Mzc2MTI5.J9I4C67bdsG9IUCz17AAiZQ-Ex3WVuRmqcP3ZE4t4qwg.llvkH6ZKQERHZ_iaPkcKaeTAos6ZxdW9JHVTsUHOV14g.PNG.cy2003k%2Fimage.png&type=sc960_832" alt="이것이 코딩 테스트다 with 파이썬" title="이것이 코딩 테스트다 with 파이썬">](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
+## 참고
+
+- [이것이 코딩테스트다 with Python](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
+
+- https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
