@@ -83,6 +83,7 @@
   - [백준 11057번 - 오르막 수](https://best-human-developer.tistory.com/15)
   - [백준 2156번 - 포도주 시식](https://best-human-developer.tistory.com/19)
   - [백준 1912번 - 연속합](https://best-human-developer.tistory.com/21)
+  - [백준 2579번- 계단 오르기](https://best-human-developer.tistory.com/22)
 
 </details>
 
