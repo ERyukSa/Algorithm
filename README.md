@@ -92,9 +92,10 @@
 
 <details open markdown="6">
 
-<summary>이분 탐색</summary>
+<summary>정렬ㆍ이분 탐색</summary>
 
   - [백준 2110번 - 공유기 설치](https://best-human-developer.tistory.com/17)
+  - [백준 2075번 - N번째 큰 수](https://best-human-developer.tistory.com/24)
 
 </details>
 
