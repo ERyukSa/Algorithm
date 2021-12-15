@@ -86,6 +86,7 @@
   - [백준 1912번 - 연속합](https://best-human-developer.tistory.com/21)
   - [백준 2579번- 계단 오르기](https://best-human-developer.tistory.com/22)
   - [백준 2225번 - 합분해](https://best-human-developer.tistory.com/25)
+  - - [백준 2133번 - 타일 채우기](https://best-human-developer.tistory.com/26)
 
 </details>
 
