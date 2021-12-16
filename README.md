@@ -97,7 +97,17 @@
 <summary>정렬ㆍ이분 탐색</summary>
 
   - [백준 2110번 - 공유기 설치](https://best-human-developer.tistory.com/17)
-  - [백준 2075번 - N번째 큰 수](https://best-human-developer.tistory.com/24)
+
+</details>
+
+<br>
+
+<details open markdown="7">
+
+<summary>자료구조</summary>
+
+  - [백준 2075번 - N번째 큰 수 (우선순위 큐)](https://best-human-developer.tistory.com/24)
+  - [백준 1406번 - 에디터 (스택, 연결리스트)](https://best-human-developer.tistory.com/27)
 
 </details>
 
