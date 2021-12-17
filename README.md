@@ -108,6 +108,7 @@
 
   - [백준 2075번 - N번째 큰 수 (우선순위 큐)](https://best-human-developer.tistory.com/24)
   - [백준 1406번 - 에디터 (스택, 연결리스트)](https://best-human-developer.tistory.com/27)
+  - [백준 1168번 - 요세푸스 문제 2 (세그먼트 트리)](https://best-human-developer.tistory.com/28)
 
 </details>
 
