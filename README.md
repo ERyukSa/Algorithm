@@ -17,6 +17,7 @@
   - [외벽 점검](https://github.com/ERyukSa/Algorithm/blob/main/%EA%B5%AC%ED%98%84/%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80.md)
   - [키패드 누르기](https://best-human-developer.tistory.com/2)
   - [오픈채팅방](https://best-human-developer.tistory.com/3)
+  - [진법 변환 2](https://best-human-developer.tistory.com/29)
   
 </details>
 
