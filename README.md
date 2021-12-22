@@ -41,7 +41,8 @@
   - 단어 변환
   - [여행경로](https://github.com/ERyukSa/Algorithm/blob/main/DFS%26BFS/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.md)
   - [백준 1707번 - 이분 그래프](https://best-human-developer.tistory.com/7)
-  - [백준 2668번: 숫자고르기](https://best-human-developer.tistory.com/18)
+  - [백준 2668번 - 숫자고르기](https://best-human-developer.tistory.com/18)
+  - [백준 9466번 - 텀 프로젝트](https://best-human-developer.tistory.com/33)
   
 </details>
 
