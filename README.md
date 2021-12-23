@@ -43,6 +43,7 @@
   - [백준 1707번 - 이분 그래프](https://best-human-developer.tistory.com/7)
   - [백준 2668번 - 숫자고르기](https://best-human-developer.tistory.com/18)
   - [백준 9466번 - 텀 프로젝트](https://best-human-developer.tistory.com/33)
+  - [백준 7576번 - 토마토](https://best-human-developer.tistory.com/34)
   
 </details>
 
