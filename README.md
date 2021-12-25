@@ -45,6 +45,7 @@
   - [백준 9466번 - 텀 프로젝트](https://best-human-developer.tistory.com/33)
   - [백준 7576번 - 토마토](https://best-human-developer.tistory.com/34)
   - [백준 2146번 - 다리 만들기](https://best-human-developer.tistory.com/35)
+  - [백준 1167번 - 트리의 지름](https://best-human-developer.tistory.com/36)
   
 </details>
 
