@@ -102,6 +102,7 @@
 <summary>정렬ㆍ이분 탐색</summary>
 
   - [백준 2110번 - 공유기 설치](https://best-human-developer.tistory.com/17)
+  - [백준 1654번 - 랜선 자르기](https://best-human-developer.tistory.com/38)
 
 </details>
 
