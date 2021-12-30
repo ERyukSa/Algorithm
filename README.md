@@ -120,6 +120,16 @@
 
 <br>
 
+<details open markdown="8">
+
+<summary>분할 정복</summary>
+  
+  - [백준 1780번 - 종이의 개수](https://best-human-developer.tistory.com/41)
+
+</details>
+
+<br>
+
 ## 참고
 
 - [이것이 취업을 위한 코딩테스트다 with Python](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
