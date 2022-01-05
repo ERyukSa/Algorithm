@@ -126,6 +126,7 @@
   
   - [백준 1780번 - 종이의 개수](https://best-human-developer.tistory.com/41)
   - [백준 2447번 - 별 찍기 10](https://best-human-developer.tistory.com/42)
+  - [백준 1517번 - 버블 소트](https://best-human-developer.tistory.com/46)
 
 </details>
 
