@@ -62,6 +62,7 @@
   - [무지의 먹방 라이브](https://github.com/ERyukSa/Algorithm/blob/main/Greedy/%EB%AC%B4%EC%A7%80%EC%9D%98%20%EB%A8%B9%EB%B0%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C.md)
   - [백준 1744번 - 수 묶기](https://best-human-developer.tistory.com/8)
   - [백준 19598번 - 최소 회의실 개수](https://best-human-developer.tistory.com/23)
+  - [백준 1783번 - 병든 나이트](https://best-human-developer.tistory.com/47)
 
 </details>
 
