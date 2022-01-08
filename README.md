@@ -74,6 +74,7 @@
 
   - 백준 2309번 - 일곱 난쟁이
   - [백준 1062번 - 가르침](https://best-human-developer.tistory.com/6)
+  - 백준 1107번 리모컨
 
 </details>
 
