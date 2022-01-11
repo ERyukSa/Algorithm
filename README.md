@@ -18,6 +18,7 @@
   - [키패드 누르기](https://best-human-developer.tistory.com/2)
   - [오픈채팅방](https://best-human-developer.tistory.com/3)
   - [진법 변환 2](https://best-human-developer.tistory.com/29)
+  - 백준 1451번 - 직사각형으로 나누기
   
 </details>
 
@@ -75,7 +76,7 @@
   - 백준 2309번 - 일곱 난쟁이
   - [백준 1062번 - 가르침](https://best-human-developer.tistory.com/6)
   - [백준 1107번 - 리모컨](https://best-human-developer.tistory.com/50)
-  - 백준 1451번 - 직사각형으로 나누기
+  - [백준 1697번 - 숨바꼭질](https://best-human-developer.tistory.com/52)
 
 </details>
 
