@@ -49,7 +49,7 @@
   - [백준 2146번 - 다리 만들기](https://best-human-developer.tistory.com/35)
   - [백준 1167번 - 트리의 지름](https://best-human-developer.tistory.com/36)
   - [백준 2186번 - 문자판](https://best-human-developer.tistory.com/55)
-  
+  - [백준 1525번 - 퍼즐](https://best-human-developer.tistory.com/56)
 </details>
 
 <br>
