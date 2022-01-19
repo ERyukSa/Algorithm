@@ -80,6 +80,7 @@
   - [백준 1062번 - 가르침](https://best-human-developer.tistory.com/6)
   - [백준 1107번 - 리모컨](https://best-human-developer.tistory.com/50)
   - [백준 1697번 - 숨바꼭질](https://best-human-developer.tistory.com/52)
+  - [백준 2661번 - 좋은 수열](https://best-human-developer.tistory.com/58)
 
 </details>
 
