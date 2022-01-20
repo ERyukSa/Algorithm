@@ -50,6 +50,7 @@
   - [백준 1167번 - 트리의 지름](https://best-human-developer.tistory.com/36)
   - [백준 2186번 - 문자판](https://best-human-developer.tistory.com/55)
   - [백준 1525번 - 퍼즐](https://best-human-developer.tistory.com/56)
+  - [백준 1261번 - 알고스팟](https://best-human-developer.tistory.com/59)
 </details>
 
 <br>
@@ -99,7 +100,7 @@
   - [백준 1912번 - 연속합](https://best-human-developer.tistory.com/21)
   - [백준 2579번- 계단 오르기](https://best-human-developer.tistory.com/22)
   - [백준 2225번 - 합분해](https://best-human-developer.tistory.com/25)
-  - - [백준 2133번 - 타일 채우기](https://best-human-developer.tistory.com/26)
+  - [백준 2133번 - 타일 채우기](https://best-human-developer.tistory.com/26)
 
 </details>
 
