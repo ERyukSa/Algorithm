@@ -112,6 +112,7 @@
 
   - [백준 2110번 - 공유기 설치](https://best-human-developer.tistory.com/17)
   - [백준 1654번 - 랜선 자르기](https://best-human-developer.tistory.com/38)
+  - [백준 2632번 - 피자 판매](https://best-human-developer.tistory.com/60)
 
 </details>
 
