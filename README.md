@@ -114,6 +114,7 @@
   - [백준 2110번 - 공유기 설치](https://best-human-developer.tistory.com/17)
   - [백준 1654번 - 랜선 자르기](https://best-human-developer.tistory.com/38)
   - [백준 2632번 - 피자 판매](https://best-human-developer.tistory.com/60)
+  - [백준 1208번 - 부분수열의 합2](https://best-human-developer.tistory.com/62)
 
 </details>
 
@@ -146,7 +147,5 @@
 <br>
 
 ## 참고
-
-- [이것이 취업을 위한 코딩테스트다 with Python](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
 
 - [plzrun님 블로그](https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
