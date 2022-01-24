@@ -21,6 +21,7 @@
   - [백준 1451번 - 직사각형으로 나누기](https://best-human-developer.tistory.com/51)
   - [백준 22862번 - 가장 긴 짝수 연속한 부분 수열 (large)](https://best-human-developer.tistory.com/53)
   - [백준 14499번 - 주사위 굴리기](https://best-human-developer.tistory.com/61)
+  - [백준 17140번 - 이차원 배열과 연산](https://best-human-developer.tistory.com/63)
   
 </details>
 
