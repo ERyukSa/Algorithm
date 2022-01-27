@@ -71,6 +71,7 @@
   - [백준 1783번 - 병든 나이트](https://best-human-developer.tistory.com/47)
   - [백준 13164번 - 행복 유치원](https://best-human-developer.tistory.com/54)
   - [백준 11509번 - 풍선 맞추기](https://best-human-developer.tistory.com/65)
+  - [백준 2262번 - 토너먼트 만들기](https://best-human-developer.tistory.com/66)
 
 </details>
 
