@@ -119,6 +119,7 @@
   - [백준 1654번 - 랜선 자르기](https://best-human-developer.tistory.com/38)
   - [백준 2632번 - 피자 판매](https://best-human-developer.tistory.com/60)
   - [백준 1208번 - 부분수열의 합2](https://best-human-developer.tistory.com/62)
+  - [백준 13397번 - 구간 나누기2](https://best-human-developer.tistory.com/69)
 
 </details>
 
