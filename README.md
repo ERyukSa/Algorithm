@@ -53,6 +53,7 @@
   - [백준 2186번 - 문자판](https://best-human-developer.tistory.com/55)
   - [백준 1525번 - 퍼즐](https://best-human-developer.tistory.com/56)
   - [백준 1261번 - 알고스팟](https://best-human-developer.tistory.com/59)
+  - [프로그래머스 - 순위](https://best-human-developer.tistory.com/70)
 </details>
 
 <br>
