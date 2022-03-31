@@ -89,6 +89,7 @@
   - [백준 1697번 - 숨바꼭질](https://best-human-developer.tistory.com/52)
   - [백준 2661번 - 좋은 수열](https://best-human-developer.tistory.com/58)
   - [백준 2026번 - 소풍](https://best-human-developer.tistory.com/64)
+  - [백준 14888번 - 연산자 끼워넣기](https://best-human-developer.tistory.com/83)
 
 </details>
 
