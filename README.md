@@ -23,6 +23,7 @@
   - [백준 14499번 - 주사위 굴리기](https://best-human-developer.tistory.com/61)
   - [백준 17140번 - 이차원 배열과 연산](https://best-human-developer.tistory.com/63)
   - [아이템 줍기](https://best-human-developer.tistory.com/77)
+  - [백준 14719번 - 빗물](구현/%EB%B0%B1%EC%A4%80%2014719%EB%B2%88%20-%20%EB%B9%97%EB%AC%BC.kt)
   
 </details>
 
@@ -150,6 +151,14 @@
   - [백준 2447번 - 별 찍기 10](https://best-human-developer.tistory.com/42)
   - [백준 1517번 - 버블 소트](https://best-human-developer.tistory.com/46)
   - [백준 1074번 - Z](https://best-human-developer.tistory.com/48)
+
+</details>
+
+<details open markdown="9">
+
+<summary>기타</summary>
+  
+  - [백준 1922번 - 네트워크 (미니멈 스패닝 트리)](기타/백준%201922번%20-%20네트워크.kt)
 
 </details>
 
