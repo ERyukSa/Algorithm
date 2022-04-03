@@ -91,7 +91,7 @@
   - [백준 2661번 - 좋은 수열](https://best-human-developer.tistory.com/58)
   - [백준 2026번 - 소풍](https://best-human-developer.tistory.com/64)
   - [백준 14888번 - 연산자 끼워넣기](https://best-human-developer.tistory.com/83)
-  - [백준 1038번 - 감소하는 수](BruteForce/백준%201038번%20-%20감소하는%20수.kt)
+  - [백준 1038번 - 감소하는 수](https://best-human-developer.tistory.com/86)
   - [백준 17070번 - 파이프 옮기기1](BruteForce/백준%2017070번%20-%20파이프%20옮기기1.kt)
 
 </details>
