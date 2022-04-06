@@ -24,6 +24,8 @@
   - [백준 17140번 - 이차원 배열과 연산](https://best-human-developer.tistory.com/63)
   - [아이템 줍기](https://best-human-developer.tistory.com/77)
   - [백준 14719번 - 빗물](구현/%EB%B0%B1%EC%A4%80%2014719%EB%B2%88%20-%20%EB%B9%97%EB%AC%BC.kt)
+  - [프로그래머스 - k진수에서 소수 개수 구하기](구현/프로그래머스%20-%20k진수에서%20소수%20개수%20구하기.kt)
+  - [프로그래머스 - 주차 요금 계산](구현/프로그래머스%20-%20주차%20요금%20계산.kt)
   
 </details>
 
@@ -93,6 +95,7 @@
   - [백준 14888번 - 연산자 끼워넣기](https://best-human-developer.tistory.com/83)
   - [백준 1038번 - 감소하는 수](https://best-human-developer.tistory.com/86)
   - [백준 17070번 - 파이프 옮기기1](BruteForce/백준%2017070번%20-%20파이프%20옮기기1.kt)
+  - [프로그래머스 - 양궁대회](BruteForce/프로그래머스%20-%20양궁대회.kt)
 
 </details>
 
