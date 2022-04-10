@@ -1,0 +1,56 @@
+/* https://programmers.co.kr/learn/courses/30/lessons/72411 */
+/* 조합(재귀) + Map 활용 */
+
+import java.util.*
+
+class Solution {
+    private val orderCombs: Array<MutableMap<String, Int>> = Array(11){ HashMap() }
+    private val mOrders = mutableListOf<CharArray>()
+
+    fun solution(orders: Array<String>, course: IntArray): Array<String> {
+        val answer = mutableListOf<String>()
+
+        for (order in orders) {
+            mOrders.add(order.toCharArray().sortedArray())
+        }
+
+        for (order in mOrders) {
+            for (combSize in course) {
+                findComb(0, CharArray(combSize), order, 0)
+            }
+        }
+
+        for (size in course) {
+            if (orderCombs[size].isEmpty()) continue
+
+            val orderCombList = orderCombs[size].toList().sortedByDescending { it.second }
+            val maxCount = orderCombList[0].second
+            if (maxCount <= 1) continue
+            
+            for (order in orderCombList) {
+                if (maxCount > order.second) break
+                answer.add(order.first)
+            }
+        }
+
+        return answer.sorted().toTypedArray()
+    }
+
+    private fun findComb(selectIdx: Int, currentComb: CharArray, order: CharArray, startIdx: Int) {
+        if (selectIdx >= currentComb.size) {
+            val combedOrder = StringBuilder().append(currentComb).toString()
+            if (orderCombs[currentComb.size].contains(combedOrder).not()) {
+                orderCombs[currentComb.size][combedOrder] = 0
+            }
+            orderCombs[currentComb.size][combedOrder] = orderCombs[currentComb.size][combedOrder]!! + 1
+            return
+        }
+
+        if (order.size - startIdx < currentComb.size - selectIdx) return
+
+        for (i in startIdx until order.size) {
+            currentComb[selectIdx] = order[i]
+            findComb(selectIdx + 1, currentComb, order, i + 1)
+        }
+    }
+}
