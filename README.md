@@ -169,6 +169,7 @@
   - [백준 2447번 - 별 찍기 10](https://best-human-developer.tistory.com/42)
   - [백준 1517번 - 버블 소트](https://best-human-developer.tistory.com/46)
   - [백준 1074번 - Z](https://best-human-developer.tistory.com/48)
+  - [프로그래머스 - 괄호 변환](분할%20정복/프로그래머스%20-%20괄호%20변환.kt)
 
 </details>
 
