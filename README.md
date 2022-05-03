@@ -66,6 +66,7 @@
   - [백준 1261번 - 알고스팟](https://best-human-developer.tistory.com/59)
   - [프로그래머스 - 순위](https://best-human-developer.tistory.com/70)
   - [프로그래머스 - 경주로 건설](DFS&BFS/프로그래머스%20-%20경주로%20건설.kt)
+  - [프로그래머스 - 블록 이동하기](DFS&BFS/프로그래머스%20-%20블록%20이동하기.kt)
 </details>
 
 <br>
