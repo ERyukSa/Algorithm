@@ -189,6 +189,7 @@
   - [프로그래머스 - 호텔 방 배정](기타/프로그래머스%20-%20호텔%20방%20배정.kt)
   - [프로그래머스 - 길 찾기 게임](기타/프로그래머스%20-%20길%20찾기%20게임.kt)
   - [Leet Code - Product of Array Except Self](https://best-human-developer.tistory.com/114)
+  - [Leet Code - Longest Common Prefix](기타/Leet%20Code%20-%20Longest%20Common%20Prefix.kt)
 
 </details>
 
