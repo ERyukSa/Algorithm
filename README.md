@@ -107,6 +107,7 @@
   - [프로그래머스 - 양궁대회](BruteForce/프로그래머스%20-%20양궁대회.kt)
   - [프로그래머스 - 양과 늑대](BruteForce/프로그래머스%20-%20양과%20늑대.kt)
   - [프로그래머스 - 사라지는 발판](BruteForce/프로그래머스%20-%20사라지는%20발판.kt)
+  - [Leet Code - Generate Parentheses](BruteForce/Leet%20Code%20-%20Generate%20Parentheses.kt)
 
 </details>
 
@@ -190,7 +191,6 @@
   - [프로그래머스 - 길 찾기 게임](기타/프로그래머스%20-%20길%20찾기%20게임.kt)
   - [Leet Code - Product of Array Except Self](https://best-human-developer.tistory.com/114)
   - [Leet Code - Longest Common Prefix](기타/Leet%20Code%20-%20Longest%20Common%20Prefix.kt)
-
 </details>
 
 <br>
