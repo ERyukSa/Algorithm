@@ -128,6 +128,7 @@
   - [백준 2579번- 계단 오르기](https://best-human-developer.tistory.com/22)
   - [백준 2225번 - 합분해](https://best-human-developer.tistory.com/25)
   - [백준 2133번 - 타일 채우기](https://best-human-developer.tistory.com/26)
+  - [백준 1509번 - 팰린드롬 분할](Dynamic%20Programming/백준%201509번%20-%20팰린드롬%20분할.kt)
 
 </details>
 
