@@ -109,6 +109,7 @@
   - [프로그래머스 - 양과 늑대](BruteForce/프로그래머스%20-%20양과%20늑대.kt)
   - [프로그래머스 - 사라지는 발판](BruteForce/프로그래머스%20-%20사라지는%20발판.kt)
   - [Leet Code - Generate Parentheses](BruteForce/Leet%20Code%20-%20Generate%20Parentheses.kt)
+  - [백준 17136번 - 색종이 붙이기](BruteForce/백준%2017136번%20-%20색종이%20붙이기.kt)
 
 </details>
 
