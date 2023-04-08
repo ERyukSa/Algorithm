@@ -8,7 +8,7 @@ private enum class Direction {
 }
 
 private lateinit var levelBoard: Array<IntArray>
-private lateinit var slopeIsPlace: Array<Array<BooleanArray>>
+private lateinit var slopeIsPlace: Array<Array<BooleanArray>> // [놓는 방향][행][열]
 private var slopeSize = 0
 
 fun main() {
