@@ -1,6 +1,7 @@
 /**
  * https://www.acmicpc.net/problem/16919
- * 빡센 구현 문제, 다시 풀어볼 것ㅠㅠ
+ * 처음 풀고나서) 빡센 구현 문제, 다시 풀어볼 것ㅠㅠ
+ * 다시 풀고나서) 구현, 규칙 찾기 => 초기 상태인 0,1분을 제외하고, 2분부터 4분 단위로 같은 상태가 반복된다
  */
 import java.lang.StringBuilder
 
@@ -18,20 +19,19 @@ fun main() {
 
     for (row in graph.indices) {
         for (col in graph[0].indices) {
-            if (graph[row][col] == '.') {
-                explosionMinutesTable[row][col] = 5
-            } else {
+            if (graph[row][col] == 'O') {
                 explosionMinutesTable[row][col] = 3
             }
         }
     }
 
-    simulateBomberMan(lastMinutes)
+    val lastMinutesModularFour = if (lastMinutes == 1) 1 else lastMinutes % 4 + 4
+    simulateBomberMan(lastMinutesModularFour)
     printGraph()
 }
 
 private fun simulateBomberMan(lastMinutes: Int) {
-    var currentMinutes = 3
+    var currentMinutes = 2
 
     while (currentMinutes <= lastMinutes) {
         if (currentMinutes % 2 == 0) {
