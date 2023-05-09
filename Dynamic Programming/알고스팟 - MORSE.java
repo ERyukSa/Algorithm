@@ -1,5 +1,5 @@
 /**
- * https://www.algospot.com/judge/problem/read/NUMB3RS
+ * https://algospot.com/judge/problem/read/MORSE
  * DP(k번째 답 구하기), 종만북, 어렵다
  */
 

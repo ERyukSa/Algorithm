@@ -1,5 +1,5 @@
 /**
- * https://www.algospot.com/judge/problem/read/NUMB3RS
+ * https://algospot.com/judge/problem/read/PACKING
  * DP(배낭 문제, DP 최적해 추적하기), 종만북
  */
 
