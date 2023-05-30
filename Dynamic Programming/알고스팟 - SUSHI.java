@@ -2,9 +2,8 @@
  * https://algospot.com/judge/problem/read/SUSHI
  * 종만북, DP(반복적 DP)
  * 방법1) 메모리를 최적화하기 위해 가격에 100을 나눈다.
- * **방법2)** DP 테이블에 슬라이딩 윈도우를 활용한다.
+ * **방법2)** DP 테이블에 슬라이딩 윈도우를 활용한다. => 아래 SushiSlidingWindow 클래스에 적용
  */
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
@@ -20,14 +19,14 @@ public class Sushi {
         while (t-- > 0) {
             StringTokenizer st = new StringTokenizer(br.readLine());
             int sushiCount = Integer.parseInt(st.nextToken());
-            int budget = Integer.parseInt(st.nextToken()) / 100;
+            int budget = Integer.parseInt(st.nextToken());
 
             int[] prices = new int[sushiCount];
             int[] priorities = new int[sushiCount];
 
             for (int i = 0; i < sushiCount; i++) {
                 st = new StringTokenizer(br.readLine());
-                prices[i] = Integer.parseInt(st.nextToken()) / 100;
+                prices[i] = Integer.parseInt(st.nextToken());
                 priorities[i] = Integer.parseInt(st.nextToken());
             }
 
@@ -54,6 +53,60 @@ public class Sushi {
             }
 
             sb.append(maxPriorityCache[budget]).append("\n");
+        }
+
+        System.out.print(sb);
+    }
+}
+
+/**
+ * 2. 슬라이딩 윈도우 적용:
+ * 스시 최대 값인 20000의 % 100 + 1을 캐시 테이블 크기로 설정한다.
+ * why? cache[i]를 구하기 위해 필요한 i의 범위는 [i-1, i-(스시 가격 최대 값)]이기 때문이다
+ */
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.StringTokenizer;
+
+public class SushiSlidingWindow {
+
+    static final int MAX_PRICE = 20_001;
+
+    public static void main(String args[]) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder sb = new StringBuilder();
+
+        int t = Integer.parseInt(br.readLine());
+        while (t-- > 0) {
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int sushiCount = Integer.parseInt(st.nextToken());
+            int budget = Integer.parseInt(st.nextToken()) / 100;
+
+            int[] prices = new int[sushiCount];
+            int[] priorities = new int[sushiCount];
+
+            for (int i = 0; i < sushiCount; i++) {
+                st = new StringTokenizer(br.readLine());
+                prices[i] = Integer.parseInt(st.nextToken()) / 100;
+                priorities[i] = Integer.parseInt(st.nextToken());
+            }
+
+            int[] maxPriorityCache = new int[MAX_PRICE]; // 예산 [k]로 얻을 수 있는 최대 선호도 합
+            Arrays.fill(maxPriorityCache, 0);
+
+            for (int tempBudget = 1; tempBudget <= budget; tempBudget++) {
+                for (int i = 0; i < sushiCount; i++) {
+                    if (tempBudget - prices[i] >= 0) {
+                        maxPriorityCache[tempBudget % MAX_PRICE] = Math.max(
+                                maxPriorityCache[tempBudget % MAX_PRICE],
+                                priorities[i] + maxPriorityCache[(tempBudget - prices[i]) % MAX_PRICE]
+                        );
+                    }
+                }
+            }
+
+            sb.append(maxPriorityCache[budget % MAX_PRICE]).append("\n");
         }
 
         System.out.print(sb);
