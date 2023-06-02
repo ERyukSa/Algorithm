@@ -6,7 +6,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
-class Main {
+class Genius {
 
     private static int songCount;
     private static int[] playLength;
