@@ -6,7 +6,7 @@
 /**
  * https://www.acmicpc.net/problem/12865 평범한 배낭
  * 유형: DP
- * 재귀 함수로 해결했다. 오랜만에 푸니까 어려웠다. 풀긴 했는데 설명을 못하겠다. 복습해야겠다.
+ * (1) Top-Down
  */
 
 data class Stuff(val weight: Int, val value: Int)
@@ -49,4 +49,40 @@ fun calculateMaxValueSum(weightLimit: Int, stuffIndex: Int): Int {
     }
 
     return maxValueSumCache[weightLimit][stuffIndex]
+}
+
+
+/**
+ * (2) Bottom-Up
+ */
+/* data class Stuff(val weight: Int, val value: Int) */
+
+fun mainBottomUp() {
+    val (stuffCount, weightLimit) = readln().split(" ").map(String::toInt)
+    val stuffArray: Array<Stuff> = Array(stuffCount) {
+        readln().split(" ").run {
+            Stuff(weight = this[0].toInt(), value = this[1].toInt())
+        }
+    }
+    val maxValueSum: Array<IntArray> = Array(weightLimit + 1) {
+        IntArray(stuffCount)
+    }
+
+    for (w in stuffArray[0].weight..weightLimit) {
+        maxValueSum[w][0] = stuffArray[0].value
+    }
+
+    for (tempWeightLimit in 1..weightLimit) {
+        for (i in 1 until stuffCount) {
+            maxValueSum[tempWeightLimit][i] = maxValueSum[tempWeightLimit][i - 1]
+            if (tempWeightLimit >= stuffArray[i].weight) {
+                maxValueSum[tempWeightLimit][i] = maxOf(
+                    maxValueSum[tempWeightLimit][i],
+                    stuffArray[i].value + maxValueSum[tempWeightLimit - stuffArray[i].weight][i - 1]
+                )
+            }
+        }
+    }
+
+    print(maxValueSum[weightLimit][stuffCount - 1])
 }
