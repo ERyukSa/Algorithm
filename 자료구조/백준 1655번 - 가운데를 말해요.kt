@@ -57,18 +57,13 @@ fun mainTry2() {
     val numberCount = readln().toInt()
     val stringBuilder = StringBuilder()
 
-    leftMaxPQ.offer(readln().toInt())
-    stringBuilder.append(leftMaxPQ.peek()).appendLine()
-
-    repeat(numberCount - 1) { i ->
-        rightMinPQ.offer(readln().toInt())
+    repeat(numberCount) {
         if (leftMaxPQ.size == rightMinPQ.size) {
-            if (leftMaxPQ.peek() > rightMinPQ.peek()) {
-                rightMinPQ.offer(leftMaxPQ.poll())
-                leftMaxPQ.offer(rightMinPQ.poll())
-            }
-        } else {
+            rightMinPQ.offer(readln().toInt())
             leftMaxPQ.offer(rightMinPQ.poll())
+        } else {
+            leftMaxPQ.offer(readln().toInt())
+            rightMinPQ.offer(leftMaxPQ.poll())
         }
         stringBuilder.append(leftMaxPQ.peek()).appendLine()
     }
