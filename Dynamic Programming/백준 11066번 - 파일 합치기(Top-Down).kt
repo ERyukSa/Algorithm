@@ -5,7 +5,7 @@
 
 /**
  * https://www.acmicpc.net/problem/11066 파일합치기
- * 유형: DP
+ * 유형: DP (Top-Down)
  */
 
 lateinit var fileCost: IntArray
@@ -17,11 +17,10 @@ fun main() {
 
     repeat(readln().toInt()) {
         val fileCount = readln().toInt()
-        fileCost = readln().split(" ").map(String::toInt).toIntArray()
-        accCostSum = IntArray(fileCount)
-        minCostCache = Array(fileCount) { IntArray(fileCount) { -1 } }
+        fileCost = (listOf(-1) + readln().split(" ").map(String::toInt)).toIntArray()
+        accCostSum = IntArray(fileCount + 1)
+        minCostCache = Array(fileCount + 1) { IntArray(fileCount + 1) { Int.MAX_VALUE } }
 
-        accCostSum[0] = fileCost[0]
         for (i in 1 until fileCount) {
             accCostSum[i] = accCostSum[i - 1] + fileCost[i]
         }
@@ -43,12 +42,9 @@ fun calculateMinCost(start: Int, end: Int): Int {
 
     var minCost = Int.MAX_VALUE
     for (mid in start until end) {
-        val partSum1 = if (start == 0) accCostSum[mid] else accCostSum[mid] - accCostSum[start - 1]
-        val partSum2 = accCostSum[end] - accCostSum[mid]
-
         minCost = minOf(
             minCost,
-            calculateMinCost(start, mid) + calculateMinCost(mid + 1, end) + partSum1 + partSum2
+            calculateMinCost(start, mid) + calculateMinCost(mid + 1, end) + accCostSum[end] - accCostSum[start - 1]
         )
     }
 
